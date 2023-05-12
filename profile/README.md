@@ -4,7 +4,7 @@
 
 Welcome to VGstack, a company specialized in full-stack IT solutions. We are a team passionate about technology, committed to providing the best software solutions for businesses of all sizes.
 
-At Bystack, we know that every business has unique needs. That's why we work closely with our clients to understand their goals and create customized solutions that meet their specific needs.
+At VGstack, we know that every business has unique needs. That's why we work closely with our clients to understand their goals and create customized solutions that meet their specific needs.
 
 We offer a wide range of IT services, including software development, database management, mobile app development, and more. Our highly experienced and skilled team specializes in various technologies, including Javascript, Python, Typescript, VueJS, ReactJS, and more.
 
