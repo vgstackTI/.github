@@ -1,4 +1,4 @@
-![banner](https://github.com/bystack/.github/blob/main/banner.jpeg)
+![banner](https://github.com/vgstackTI/.github/blob/main/vgstack.png)
 
 # VGstack
 
