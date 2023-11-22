@@ -1,3 +1,4 @@
+```ascii
                                         &&&&&&&&                                                                        
                                         &&&&&&&                                      &&&&&&     &                       
              &&&&&&&&                 &&&&&&&&&&&&&&&&       &&&&&&    &&&&&&&&&&&&&&&&&&&&     &&&&&&&&                
@@ -11,7 +12,7 @@
                            &&&&&&&                                &&&&&&&           &&&&&&&     &&&&&&&                 
                           &&&&&&&                                   &&&&&&&&&&&&&&&&&&&&&                               
                         &&&&&&&&                                           &&&&&&                                       
-
+```
 # VGstack
 
 Welcome to VGstack, a company specialized in full-stack IT solutions. We are a team passionate about technology, committed to providing the best software solutions for businesses of all sizes.
